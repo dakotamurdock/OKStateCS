@@ -9,3 +9,5 @@ Assignment 5: File IO homework for Computer Science II Course
 Assignment 6: Review for Computer Science II Course  
 
 Blackjack: Final project for Computer Science I Course
+
+Discrete Math Code: A couple of basic algorithms written for a Discrete Math homework
